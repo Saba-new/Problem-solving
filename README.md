@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Saba-new/Problem-solving/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saba-new/Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Saba-new/Problem-solving/tree/master/0238-product-of-array-except-self) |
+| [0739-daily-temperatures](https://github.com/Saba-new/Problem-solving/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,10 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Saba-new/Problem-solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Saba-new/Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Saba-new/Problem-solving/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/Saba-new/Problem-solving/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Saba-new/Problem-solving/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Saba-new/Problem-solving/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
