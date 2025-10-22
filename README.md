@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saba-new/Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Saba-new/Problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0739-daily-temperatures](https://github.com/Saba-new/Problem-solving/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Saba-new/Problem-solving/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Saba-new/Problem-solving/tree/master/0883-car-fleet) |
 ## Hash Table
 |  |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saba-new/Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0792-binary-search](https://github.com/Saba-new/Problem-solving/tree/master/0792-binary-search) |
 ## Sorting
 |  |
 | ------- |
