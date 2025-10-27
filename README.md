@@ -121,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Saba-new/Problem-solving/tree/master/0022-generate-parentheses) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Saba-new/Problem-solving/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
