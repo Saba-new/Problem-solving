@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saba-new/Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Saba-new/Problem-solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Saba-new/Problem-solving/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Saba-new/Problem-solving/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Saba-new/Problem-solving/tree/master/0567-permutation-in-string) |
 ## String
 |  |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Saba-new/Problem-solving/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Saba-new/Problem-solving/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Saba-new/Problem-solving/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/Saba-new/Problem-solving/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Saba-new/Problem-solving/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Saba-new/Problem-solving/tree/master/0981-time-based-key-value-store) |
 ## Binary Search
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Saba-new/Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saba-new/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saba-new/Problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/Saba-new/Problem-solving/tree/master/0392-is-subsequence) |
 ## Stack
 |  |
 | ------- |
