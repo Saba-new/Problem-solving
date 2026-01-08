@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Saba-new/Problem-solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Saba-new/Problem-solving/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Saba-new/Problem-solving/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Saba-new/Problem-solving/tree/master/0283-move-zeroes) |
 | [0739-daily-temperatures](https://github.com/Saba-new/Problem-solving/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Saba-new/Problem-solving/tree/master/0792-binary-search) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Saba-new/Problem-solving/tree/master/0041-first-missing-positive) |
 | [0128-longest-consecutive-sequence](https://github.com/Saba-new/Problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Saba-new/Problem-solving/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
 | [0567-permutation-in-string](https://github.com/Saba-new/Problem-solving/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Saba-new/Problem-solving/tree/master/0981-time-based-key-value-store) |
 ## Math
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Saba-new/Problem-solving/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Saba-new/Problem-solving/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Saba-new/Problem-solving/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Saba-new/Problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Saba-new/Problem-solving/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saba-new/Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Saba-new/Problem-solving/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/Saba-new/Problem-solving/tree/master/0907-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Saba-new/Problem-solving/tree/master/0981-time-based-key-value-store) |
@@ -111,11 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Saba-new/Problem-solving/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Saba-new/Problem-solving/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
 | [0883-car-fleet](https://github.com/Saba-new/Problem-solving/tree/master/0883-car-fleet) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Saba-new/Problem-solving/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
