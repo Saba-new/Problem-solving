@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Saba-new/Problem-solving/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/Saba-new/Problem-solving/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Saba-new/Problem-solving/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Saba-new/Problem-solving/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Saba-new/Problem-solving/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Saba-new/Problem-solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Saba-new/Problem-solving/tree/master/0074-search-a-2d-matrix) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Saba-new/Problem-solving/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Saba-new/Problem-solving/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Saba-new/Problem-solving/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Saba-new/Problem-solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
 ## Linked List
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Saba-new/Problem-solving/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Saba-new/Problem-solving/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Saba-new/Problem-solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Saba-new/Problem-solving/tree/master/0074-search-a-2d-matrix) |
 ## Prefix Sum
