@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Saba-new/Problem-solving/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Saba-new/Problem-solving/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Saba-new/Problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0739-daily-temperatures](https://github.com/Saba-new/Problem-solving/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Saba-new/Problem-solving/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/Saba-new/Problem-solving/tree/master/0883-car-fleet) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Saba-new/Problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Saba-new/Problem-solving/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Saba-new/Problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Saba-new/Problem-solving/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Saba-new/Problem-solving/tree/master/0981-time-based-key-value-store) |
 ## Math
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Saba-new/Problem-solving/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/Saba-new/Problem-solving/tree/master/0560-subarray-sum-equals-k) |
 ## Union Find
 |  |
 | ------- |
