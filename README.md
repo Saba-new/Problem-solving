@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Saba-new/Problem-solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Saba-new/Problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Saba-new/Problem-solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Saba-new/Problem-solving/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Saba-new/Problem-solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saba-new/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saba-new/Problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Saba-new/Problem-solving/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Saba-new/Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Saba-new/Problem-solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Saba-new/Problem-solving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Saba-new/Problem-solving/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Saba-new/Problem-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saba-new/Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Saba-new/Problem-solving/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Saba-new/Problem-solving/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Saba-new/Problem-solving/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Saba-new/Problem-solving/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Saba-new/Problem-solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Saba-new/Problem-solving/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
