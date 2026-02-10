@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Saba-new/Problem-solving/tree/master/0907-koko-eating-bananas) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saba-new/Problem-solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saba-new/Problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3719-longest-balanced-subarray-i](https://github.com/Saba-new/Problem-solving/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Saba-new/Problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Saba-new/Problem-solving/tree/master/0567-permutation-in-string) |
 | [0981-time-based-key-value-store](https://github.com/Saba-new/Problem-solving/tree/master/0981-time-based-key-value-store) |
+| [3719-longest-balanced-subarray-i](https://github.com/Saba-new/Problem-solving/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Saba-new/Problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Saba-new/Problem-solving/tree/master/0560-subarray-sum-equals-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/Saba-new/Problem-solving/tree/master/3719-longest-balanced-subarray-i) |
 ## Union Find
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Saba-new/Problem-solving/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Saba-new/Problem-solving/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Saba-new/Problem-solving/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/Saba-new/Problem-solving/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
 |  |
 | ------- |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Saba-new/Problem-solving/tree/master/0493-reverse-pairs) |
+| [3719-longest-balanced-subarray-i](https://github.com/Saba-new/Problem-solving/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
