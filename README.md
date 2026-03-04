@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Saba-new/Problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Saba-new/Problem-solving/tree/master/0283-move-zeroes) |
+| [0376-wiggle-subsequence](https://github.com/Saba-new/Problem-solving/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Saba-new/Problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/Saba-new/Problem-solving/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Saba-new/Problem-solving/tree/master/0493-reverse-pairs) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saba-new/Problem-solving/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saba-new/Problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0376-wiggle-subsequence](https://github.com/Saba-new/Problem-solving/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Saba-new/Problem-solving/tree/master/0410-split-array-largest-sum) |
 ## Dynamic Programming
 |  |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Saba-new/Problem-solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saba-new/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saba-new/Problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0376-wiggle-subsequence](https://github.com/Saba-new/Problem-solving/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/Saba-new/Problem-solving/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Saba-new/Problem-solving/tree/master/0410-split-array-largest-sum) |
 ## Stack
