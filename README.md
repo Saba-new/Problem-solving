@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Saba-new/Problem-solving/tree/master/0205-isomorphic-strings) |
 | [0392-is-subsequence](https://github.com/Saba-new/Problem-solving/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Saba-new/Problem-solving/tree/master/0567-permutation-in-string) |
+| [0796-rotate-string](https://github.com/Saba-new/Problem-solving/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/Saba-new/Problem-solving/tree/master/0981-time-based-key-value-store) |
 | [1903-largest-odd-number-in-string](https://github.com/Saba-new/Problem-solving/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
@@ -278,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Saba-new/Problem-solving/tree/master/0493-reverse-pairs) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Saba-new/Problem-solving/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
