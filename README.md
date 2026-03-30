@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Saba-new/Problem-solving/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Saba-new/Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Saba-new/Problem-solving/tree/master/0155-min-stack) |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Saba-new/Problem-solving/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0739-daily-temperatures](https://github.com/Saba-new/Problem-solving/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Saba-new/Problem-solving/tree/master/0883-car-fleet) |
 ## Monotonic Stack
@@ -294,4 +295,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Saba-new/Problem-solving/tree/master/0796-rotate-string) |
+## Tree
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Saba-new/Problem-solving/tree/master/0589-n-ary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0589-n-ary-tree-preorder-traversal](https://github.com/Saba-new/Problem-solving/tree/master/0589-n-ary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
