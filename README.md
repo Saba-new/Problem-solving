@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Saba-new/Problem-solving/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Saba-new/Problem-solving/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Saba-new/Problem-solving/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/Saba-new/Problem-solving/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Saba-new/Problem-solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
 | [1903-largest-odd-number-in-string](https://github.com/Saba-new/Problem-solving/tree/master/1903-largest-odd-number-in-string) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Saba-new/Problem-solving/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Saba-new/Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Saba-new/Problem-solving/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Saba-new/Problem-solving/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/Saba-new/Problem-solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saba-new/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saba-new/Problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -306,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Saba-new/Problem-solving/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Saba-new/Problem-solving/tree/master/0590-n-ary-tree-postorder-traversal) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Saba-new/Problem-solving/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
