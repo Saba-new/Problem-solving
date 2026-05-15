@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Saba-new/Problem-solving/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Saba-new/Problem-solving/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Saba-new/Problem-solving/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Saba-new/Problem-solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Saba-new/Problem-solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/Saba-new/Problem-solving/tree/master/0367-valid-perfect-square) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Saba-new/Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Saba-new/Problem-solving/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Saba-new/Problem-solving/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Saba-new/Problem-solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Saba-new/Problem-solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saba-new/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saba-new/Problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Saba-new/Problem-solving/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Saba-new/Problem-solving/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
