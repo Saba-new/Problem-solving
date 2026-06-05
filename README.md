@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Saba-new/Problem-solving/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Saba-new/Problem-solving/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
+| [0319-bulb-switcher](https://github.com/Saba-new/Problem-solving/tree/master/0319-bulb-switcher) |
 | [0367-valid-perfect-square](https://github.com/Saba-new/Problem-solving/tree/master/0367-valid-perfect-square) |
 | [1903-largest-odd-number-in-string](https://github.com/Saba-new/Problem-solving/tree/master/1903-largest-odd-number-in-string) |
 ## Linked List
@@ -339,4 +340,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Saba-new/Problem-solving/tree/master/0070-climbing-stairs) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/Saba-new/Problem-solving/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
