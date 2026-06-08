@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Saba-new/Problem-solving/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Saba-new/Problem-solving/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Saba-new/Problem-solving/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Saba-new/Problem-solving/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Saba-new/Problem-solving/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Saba-new/Problem-solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Saba-new/Problem-solving/tree/master/0074-search-a-2d-matrix) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Saba-new/Problem-solving/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Saba-new/Problem-solving/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saba-new/Problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/Saba-new/Problem-solving/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Saba-new/Problem-solving/tree/master/0410-split-array-largest-sum) |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Saba-new/Problem-solving/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Saba-new/Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Saba-new/Problem-solving/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Saba-new/Problem-solving/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Saba-new/Problem-solving/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Saba-new/Problem-solving/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Saba-new/Problem-solving/tree/master/0118-pascals-triangle) |
