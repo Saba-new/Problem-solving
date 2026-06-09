@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Saba-new/Problem-solving/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Saba-new/Problem-solving/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Saba-new/Problem-solving/tree/master/0088-merge-sorted-array) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saba-new/Problem-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Saba-new/Problem-solving/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Saba-new/Problem-solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saba-new/Problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Saba-new/Problem-solving/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Saba-new/Problem-solving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Saba-new/Problem-solving/tree/master/0073-set-matrix-zeroes) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saba-new/Problem-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/Saba-new/Problem-solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Saba-new/Problem-solving/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Saba-new/Problem-solving/tree/master/0205-isomorphic-strings) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Saba-new/Problem-solving/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saba-new/Problem-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/Saba-new/Problem-solving/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Saba-new/Problem-solving/tree/master/0493-reverse-pairs) |
 | [3719-longest-balanced-subarray-i](https://github.com/Saba-new/Problem-solving/tree/master/3719-longest-balanced-subarray-i) |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saba-new/Problem-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Saba-new/Problem-solving/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Saba-new/Problem-solving/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -355,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Saba-new/Problem-solving/tree/master/0319-bulb-switcher) |
+## Binary Tree
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Saba-new/Problem-solving/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
