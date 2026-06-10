@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Saba-new/Problem-solving/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Saba-new/Problem-solving/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Saba-new/Problem-solving/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Saba-new/Problem-solving/tree/master/0200-number-of-islands) |
 | [0229-majority-element-ii](https://github.com/Saba-new/Problem-solving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Saba-new/Problem-solving/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Saba-new/Problem-solving/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Saba-new/Problem-solving/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Saba-new/Problem-solving/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/Saba-new/Problem-solving/tree/master/0200-number-of-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/Saba-new/Problem-solving/tree/master/1901-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/Saba-new/Problem-solving/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Saba-new/Problem-solving/tree/master/0098-validate-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/Saba-new/Problem-solving/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Saba-new/Problem-solving/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Saba-new/Problem-solving/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Saba-new/Problem-solving/tree/master/0547-number-of-provinces) |
@@ -383,10 +386,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Saba-new/Problem-solving/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Saba-new/Problem-solving/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Saba-new/Problem-solving/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Saba-new/Problem-solving/tree/master/0547-number-of-provinces) |
 ## Graph Theory
 |  |
