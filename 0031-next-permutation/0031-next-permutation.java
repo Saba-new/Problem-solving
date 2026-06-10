@@ -1,24 +1,35 @@
 class Solution {
+
     public void nextPermutation(int[] nums) {
         int n = nums.length;
+        int pivot = -1;
 
-        int i = n - 2;
-        while (i >= 0 && nums[i] >= nums[i + 1]) {
-            i--;
-        }
-
-        if (i >= 0) {
-            int j = n - 1;
-            while (nums[j] <= nums[i]) {
-                j--;
+        // Find pivot
+        for(int i = n - 2; i >= 0; i--){
+            if(nums[i] < nums[i + 1]){
+                pivot = i;
+                break;
             }
-            int temp = nums[i];
-            nums[i] = nums[j];
-            nums[j] = temp;
         }
 
-        int left = i + 1, right = n - 1;
-        while (left < right) {
+        // Find next greater and swap
+        if(pivot != -1){
+            for(int j = n - 1; j > pivot; j--){
+                if(nums[j] > nums[pivot]){
+                    int temp = nums[j];
+                    nums[j] = nums[pivot];
+                    nums[pivot] = temp;
+                    break;
+                }
+            }
+        }
+
+        // Reverse the suffix
+        reverse(nums, pivot + 1, n - 1);
+    }
+
+    public void reverse(int[] nums, int left, int right){
+        while(left < right){
             int temp = nums[left];
             nums[left] = nums[right];
             nums[right] = temp;
