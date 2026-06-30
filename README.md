@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/Saba-new/Problem-solving/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/Saba-new/Problem-solving/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/Saba-new/Problem-solving/tree/master/1021-remove-outermost-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Saba-new/Problem-solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Saba-new/Problem-solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Saba-new/Problem-solving/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Saba-new/Problem-solving/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Saba-new/Problem-solving/tree/master/0883-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/Saba-new/Problem-solving/tree/master/1021-remove-outermost-parentheses) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Saba-new/Problem-solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
