@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/Saba-new/Problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0704-binary-search](https://github.com/Saba-new/Problem-solving/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Saba-new/Problem-solving/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Saba-new/Problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Saba-new/Problem-solving/tree/master/0792-binary-search) |
 | [0845-longest-mountain-in-array](https://github.com/Saba-new/Problem-solving/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/Saba-new/Problem-solving/tree/master/0881-boats-to-save-people) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Saba-new/Problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/Saba-new/Problem-solving/tree/master/0509-fibonacci-number) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saba-new/Problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
+| [0746-min-cost-climbing-stairs](https://github.com/Saba-new/Problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0845-longest-mountain-in-array](https://github.com/Saba-new/Problem-solving/tree/master/0845-longest-mountain-in-array) |
 ## Stack
 |  |
