@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Saba-new/Problem-solving/tree/master/0322-coin-change) |
 | [0376-wiggle-subsequence](https://github.com/Saba-new/Problem-solving/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Saba-new/Problem-solving/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Saba-new/Problem-solving/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Saba-new/Problem-solving/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Saba-new/Problem-solving/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Saba-new/Problem-solving/tree/master/0540-single-element-in-a-sorted-array) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Saba-new/Problem-solving/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Saba-new/Problem-solving/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/Saba-new/Problem-solving/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/Saba-new/Problem-solving/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Saba-new/Problem-solving/tree/master/0567-permutation-in-string) |
 | [0845-longest-mountain-in-array](https://github.com/Saba-new/Problem-solving/tree/master/0845-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/Saba-new/Problem-solving/tree/master/0881-boats-to-save-people) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Saba-new/Problem-solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Saba-new/Problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
+| [0455-assign-cookies](https://github.com/Saba-new/Problem-solving/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saba-new/Problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/Saba-new/Problem-solving/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/Saba-new/Problem-solving/tree/master/0883-car-fleet) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Saba-new/Problem-solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0376-wiggle-subsequence](https://github.com/Saba-new/Problem-solving/tree/master/0376-wiggle-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/Saba-new/Problem-solving/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Saba-new/Problem-solving/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saba-new/Problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
 | [0881-boats-to-save-people](https://github.com/Saba-new/Problem-solving/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saba-new/Problem-solving/tree/master/1833-maximum-ice-cream-bars) |
