@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Saba-new/Problem-solving/tree/master/0746-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Saba-new/Problem-solving/tree/master/0792-binary-search) |
 | [0845-longest-mountain-in-array](https://github.com/Saba-new/Problem-solving/tree/master/0845-longest-mountain-in-array) |
+| [0860-lemonade-change](https://github.com/Saba-new/Problem-solving/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Saba-new/Problem-solving/tree/master/0881-boats-to-save-people) |
 | [0883-car-fleet](https://github.com/Saba-new/Problem-solving/tree/master/0883-car-fleet) |
 | [0904-fruit-into-baskets](https://github.com/Saba-new/Problem-solving/tree/master/0904-fruit-into-baskets) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Saba-new/Problem-solving/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/Saba-new/Problem-solving/tree/master/0455-assign-cookies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saba-new/Problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
+| [0860-lemonade-change](https://github.com/Saba-new/Problem-solving/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Saba-new/Problem-solving/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saba-new/Problem-solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Saba-new/Problem-solving/tree/master/1903-largest-odd-number-in-string) |
