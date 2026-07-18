@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Saba-new/Problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Saba-new/Problem-solving/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/Saba-new/Problem-solving/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Saba-new/Problem-solving/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/Saba-new/Problem-solving/tree/master/0981-time-based-key-value-store) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Saba-new/Problem-solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Saba-new/Problem-solving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Saba-new/Problem-solving/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Saba-new/Problem-solving/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/Saba-new/Problem-solving/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Saba-new/Problem-solving/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/Saba-new/Problem-solving/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/Saba-new/Problem-solving/tree/master/1021-remove-outermost-parentheses) |
