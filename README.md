@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Saba-new/Problem-solving/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/Saba-new/Problem-solving/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/Saba-new/Problem-solving/tree/master/1903-largest-odd-number-in-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Saba-new/Problem-solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Binary Search
 |  |
 | ------- |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Saba-new/Problem-solving/tree/master/0881-boats-to-save-people) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saba-new/Problem-solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1903-largest-odd-number-in-string](https://github.com/Saba-new/Problem-solving/tree/master/1903-largest-odd-number-in-string) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Saba-new/Problem-solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -468,4 +470,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Saba-new/Problem-solving/tree/master/0845-longest-mountain-in-array) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/Saba-new/Problem-solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
