@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Saba-new/Problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Saba-new/Problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Saba-new/Problem-solving/tree/master/0646-maximum-length-of-pair-chain) |
+| [0682-baseball-game](https://github.com/Saba-new/Problem-solving/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Saba-new/Problem-solving/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Saba-new/Problem-solving/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/Saba-new/Problem-solving/tree/master/0746-min-cost-climbing-stairs) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Saba-new/Problem-solving/tree/master/0155-min-stack) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Saba-new/Problem-solving/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Saba-new/Problem-solving/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/Saba-new/Problem-solving/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/Saba-new/Problem-solving/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/Saba-new/Problem-solving/tree/master/0883-car-fleet) |
 | [1021-remove-outermost-parentheses](https://github.com/Saba-new/Problem-solving/tree/master/1021-remove-outermost-parentheses) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Saba-new/Problem-solving/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/Saba-new/Problem-solving/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saba-new/Problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Indexed Tree
 |  |
