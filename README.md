@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Saba-new/Problem-solving/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Saba-new/Problem-solving/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Saba-new/Problem-solving/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/Saba-new/Problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Saba-new/Problem-solving/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Saba-new/Problem-solving/tree/master/0771-jewels-and-stones) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Saba-new/Problem-solving/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Saba-new/Problem-solving/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Saba-new/Problem-solving/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Saba-new/Problem-solving/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Saba-new/Problem-solving/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Saba-new/Problem-solving/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Saba-new/Problem-solving/tree/master/0567-permutation-in-string) |
