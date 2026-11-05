@@ -348,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Saba-new/Problem-solving/tree/master/0155-min-stack) |
+| [0933-number-of-recent-calls](https://github.com/Saba-new/Problem-solving/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/Saba-new/Problem-solving/tree/master/0981-time-based-key-value-store) |
 ## Backtracking
 |  |
@@ -491,4 +492,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0845-longest-mountain-in-array](https://github.com/Saba-new/Problem-solving/tree/master/0845-longest-mountain-in-array) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/Saba-new/Problem-solving/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Saba-new/Problem-solving/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Saba-new/Problem-solving/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
