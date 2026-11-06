@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Saba-new/Problem-solving/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Saba-new/Problem-solving/tree/master/1833-maximum-ice-cream-bars) |
 | [1901-find-a-peak-element-ii](https://github.com/Saba-new/Problem-solving/tree/master/1901-find-a-peak-element-ii) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Saba-new/Problem-solving/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saba-new/Problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3719-longest-balanced-subarray-i](https://github.com/Saba-new/Problem-solving/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Saba-new/Problem-solving/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Saba-new/Problem-solving/tree/master/0682-baseball-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Saba-new/Problem-solving/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Saba-new/Problem-solving/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Binary Indexed Tree
 |  |
@@ -496,6 +498,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Saba-new/Problem-solving/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/Saba-new/Problem-solving/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
