@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Saba-new/Problem-solving/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/Saba-new/Problem-solving/tree/master/0071-simplify-path) |
 | [0155-min-stack](https://github.com/Saba-new/Problem-solving/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Saba-new/Problem-solving/tree/master/0232-implement-queue-using-stacks) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Saba-new/Problem-solving/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Saba-new/Problem-solving/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/Saba-new/Problem-solving/tree/master/0682-baseball-game) |
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Saba-new/Problem-solving/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Saba-new/Problem-solving/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/Saba-new/Problem-solving/tree/master/0933-number-of-recent-calls) |
 | [0981-time-based-key-value-store](https://github.com/Saba-new/Problem-solving/tree/master/0981-time-based-key-value-store) |
 ## Backtracking
@@ -497,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Saba-new/Problem-solving/tree/master/0232-implement-queue-using-stacks) |
 | [0933-number-of-recent-calls](https://github.com/Saba-new/Problem-solving/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Saba-new/Problem-solving/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
