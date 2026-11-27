@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Saba-new/Problem-solving/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Saba-new/Problem-solving/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Saba-new/Problem-solving/tree/master/0383-ransom-note) |
+| [0424-longest-repeating-character-replacement](https://github.com/Saba-new/Problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/Saba-new/Problem-solving/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Saba-new/Problem-solving/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Saba-new/Problem-solving/tree/master/0771-jewels-and-stones) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Saba-new/Problem-solving/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Saba-new/Problem-solving/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Saba-new/Problem-solving/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/Saba-new/Problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Saba-new/Problem-solving/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Saba-new/Problem-solving/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Saba-new/Problem-solving/tree/master/0796-rotate-string) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Saba-new/Problem-solving/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/Saba-new/Problem-solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Saba-new/Problem-solving/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/Saba-new/Problem-solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Saba-new/Problem-solving/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Saba-new/Problem-solving/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Saba-new/Problem-solving/tree/master/0904-fruit-into-baskets) |
